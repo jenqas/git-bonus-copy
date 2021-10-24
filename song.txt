@@ -1,4 +1,4 @@
-[Verse 0]
+
 Dashing through the snow
 In a one-horse open sleigh
 O'er the fields we go
@@ -8,7 +8,7 @@ Making spirits bright
 What fun it is to ride and sing
 A sleighing song tonight
 
-[Chorus]
+
 Jingle bells, jingle bells
 Jingle all the way
 Oh, what fun it is to ride
@@ -18,7 +18,7 @@ Jingle all the way
 Oh, what fun it is to ride
 In a one-horse open sleigh
 
-[Verse 3]
+
 A day or two ago
 I thought I'd take a ride
 And soon, Miss Fanny Bright
@@ -29,7 +29,7 @@ He got into a drifted bank
 And then we got upsot
 
 
-[Chorus]
+
 Jingle bells, jingle bells
 Jingle all the way
 Oh, what fun it is to ride
@@ -40,7 +40,7 @@ Oh, what a fun it is to ride
 In a one-horse open sleigh
 
 
-[Verse 3]
+
 A day or two ago
 The story I must tell
 I went out on the snow
@@ -50,7 +50,7 @@ In a one-horse open sleigh
 He laughed as there I sprawling lie
 But quickly drove away
 
-[Chorus]
+
 Jingle bells, jingle bells
 Jingle all the way
 Oh, what fun it is to ride
@@ -61,7 +61,7 @@ Oh, what fun it is to ride
 In a one-horse open sleigh
 
 
-[Verse 4]
+
 Now the ground is white
 Go it while you're young
 Take the girls tonight
@@ -71,7 +71,7 @@ Two forty as his speed
 Hitch him to an open sleigh
 And crack, you'll take the lead
 
-[Chorus]
+
 Jingle bells, jingle bells
 Jingle all the way
 Oh, what fun it is to ride
